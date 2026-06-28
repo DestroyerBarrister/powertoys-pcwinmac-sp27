@@ -1,4 +1,4 @@
-# 
+# Premium PowerToys scripts para Mac OS | Avançado PowerToys scripts para PC Windows. Com organizacao de area de trabalho e informacoes do sistema — otimizado para máximo desempenho em cada plataforma.
 
 
 
